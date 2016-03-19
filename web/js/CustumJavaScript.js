@@ -52,7 +52,7 @@ function updateUserName()
         },
         error: function (var1, error)
         {
-            alert(error);
+            alert("this is an errer");
             return false;
         }
     });
@@ -74,7 +74,7 @@ function checkAdmin()
         },
         error: function(var1,error)
         {
-            alert(error);
+            alert("this is an errorls");
         }
     });
         
