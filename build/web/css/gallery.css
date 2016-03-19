@@ -1,0 +1,12 @@
+/* admin content */
+#galleryAdmin{
+    margin-bottom: 10%;
+}
+#imagepreview{
+    height: 100%;
+    width: 100%;
+}
+
+#addPhoto{
+    float:right;
+}
